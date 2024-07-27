@@ -13,10 +13,10 @@ It's easier for users to find issues and errors than it is for just us to troubl
 Within this repository there are multiple folders containing different cosmetics and images.
 
 - `/bundles` Includes groups of cosmetics in no particular order. The goal is to keep similar cosmetics or cosmetics that have a connection with each other in the same place.
-- `/bundles/marketplace` Includes many cosmetics that can be found in the marketplace page. As time goes on we will use the existing Hive Backpack database to add more entries to this seleciton.
-- `/images` Includes every image that should be used in a cosmetic. This only is required for cosmetics that dont have images hosted on the hive CDN.
-- `/images/costumes` Generated images made by us at Hive Backpack using the hive's cosmtumes. If any new costumes are to be added they will require an offical image from the hive or one made by Hive Backpack.
-- `/images/unlocks` Similary to costume images any images for game unlocks that dont have a offical one on the CDN should be in here. Any image in here should be an offical one from the hive or made by Hive Backpack.
+- `/bundles/marketplace` Includes many cosmetics that can be found in the Marketplace page. As time goes on we will use the existing Hive Backpack database to add more entries to this selection.
+- `/images` Includes every image that should be used in a cosmetic. This only is required for cosmetics that don't have images hosted on The Hive CDN.
+- `/images/costumes` Generated images made by us at Hive Backpack using the Hive's costumes. If any new costumes are to be added they will require an offical image from The Hive or one made by Hive Backpack.
+- `/images/unlocks` Similarly to costume images, any images for game unlocks that don't have a offical one on the CDN should be in here. Any image in here should be an offical one from The Hive or made by Hive Backpack.
 - `/images/gallery` Here any community made image can be placed and referenced using the `gallery` property.
 - `/unlocks` Includes a folder for every game on the hive with information about every unlock in the same format as in the bundles folder.
 
